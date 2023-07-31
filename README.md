@@ -13,7 +13,6 @@ https://github.com/Rajat4279/ETH-AVAX-Module-4
 2. Install the dependencies :
 
 ```
-cd  Degen Token
 npm i
 ```
 
